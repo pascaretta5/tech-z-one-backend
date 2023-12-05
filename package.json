@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "python3 install pip, pip install -y Flask && pip install -y Flask-SQLAlchemy && pip install -y marshmallow && pip install -y Flask-JWT-Extend && pip install -y Flask-CORS &&python3 ./app/__init__.py"
+    "start": "python3 install pip && pip install -y Flask && pip install -y Flask-SQLAlchemy && pip install -y marshmallow && pip install -y Flask-JWT-Extend && pip install -y Flask-CORS &&python3 ./app/__init__.py"
   },
   "keywords": [],
   "author": "",
